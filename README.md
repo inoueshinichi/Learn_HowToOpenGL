@@ -1,2 +1,2 @@
-# Learn_OpenGL
-OpenGL
+# Learn_HowToOpenGL
+How to OpenGL
